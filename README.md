@@ -4,10 +4,10 @@
 This project involves a comprehensive analysis of a coffee store's data using SQL. The objective is to uncover valuable insights, optimize business strategies, and improve decision-making processes by examining customer trends, revenue metrics, and rental figures.
 
 ## Project Features
+
  - Data Analysis: In-depth exploration and analysis of customer behavior, average sales, and rental metrics.
  - SQL Queries: Utilization of SQL queries to extract, filter, and summarize data.
  -  Insights Generation: Identification of key performance indicators, such as average rent per customer and total revenue figures.
- -  Data Visualization: Presentation-ready results for stakeholders, aiding in strategic planning.
 
 ## Key Insights
 
