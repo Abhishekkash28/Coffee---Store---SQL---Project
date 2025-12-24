@@ -20,4 +20,4 @@ This project involves a comprehensive analysis of a coffee store's data using SQ
 ## Technologies Used
 
 SQL: For data querying and analysis.
-Excel: Basic data handling and validation.
+Excel: Basic data handling and quering.
