@@ -13,7 +13,7 @@ This project involves a comprehensive analysis of a coffee store's data using SQ
 
  - Estimated Coffee Consumers: The analysis shows that the highest estimated number of coffee consumers reached 7.7 million.
  - Customer Count: The total number of customers peaked at 68.
- - Average Rent Analysis: The average rent per customer was 330, remaining comfortably below the 500 mark.
+ - Average Rent Analysis: The average rent per customer was 330, remaining comfortably below the 500 marks.
  - Revenue Performance: Achieved the highest total revenue, showcasing strong business performance.
  - Sales per Customer: Observed a high average sales figure per customer, highlighting customer purchasing behavior.
 
